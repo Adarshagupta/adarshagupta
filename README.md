@@ -12,7 +12,7 @@ Web developer
 * ⚡  I'm a student
 
 <a href="https://www.twitter.com/adarshgpt__" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/adarshgpt_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/adarshgpt__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/adarshbro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adarshbro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
